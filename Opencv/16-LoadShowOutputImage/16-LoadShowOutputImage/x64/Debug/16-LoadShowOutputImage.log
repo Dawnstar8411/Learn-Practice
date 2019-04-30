@@ -1,0 +1,7 @@
+﻿  16-LoadShowOutputImage.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  16-LoadShowOutputImage.vcxproj -> C:\Users\chen\Desktop\Opencv-Learning\16-LoadShowOutputImage\x64\Debug\16-LoadShowOutputImage.exe
+  16-LoadShowOutputImage.vcxproj -> C:\Users\chen\Desktop\Opencv-Learning\16-LoadShowOutputImage\x64\Debug\16-LoadShowOutputImage.pdb (Full PDB)

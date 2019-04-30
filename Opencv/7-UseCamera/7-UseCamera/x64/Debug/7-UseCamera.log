@@ -1,0 +1,7 @@
+﻿  7-UseCamera.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  7-UseCamera.vcxproj -> C:\Users\chen\Desktop\Opencv-Learning\ch1\7-UseCamera\x64\Debug\7-UseCamera.exe
+  7-UseCamera.vcxproj -> C:\Users\chen\Desktop\Opencv-Learning\ch1\7-UseCamera\x64\Debug\7-UseCamera.pdb (Full PDB)
